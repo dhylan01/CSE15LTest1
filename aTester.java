@@ -4,6 +4,6 @@ import org.junit.*;
 public class aTester {
     @Test
     public void multiply() {
-        assertEquals(5, a.mult(5));
+        assertEquals(25, a.mult(5));
     }
 }
